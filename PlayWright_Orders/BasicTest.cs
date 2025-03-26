@@ -2,7 +2,7 @@
 
 namespace PlayWright_Orders;
 
-public class UnitTest1
+public class BasicTest 
 {
     [Fact]
     public async Task Test1()
